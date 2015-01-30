@@ -1,3 +1,5 @@
 Just an text file
 
 Bootcamp is cool
+
+New line of text
